@@ -1,4 +1,5 @@
 amanecer -- begin to get light (el sol), to wake up / awake, sunrise, dawn, daybreak
+aleatorio -- random, accidental
 cadera -- human hip, hip joint
 caña -- cane, reed, rod
 canela -- cinnamon
@@ -22,6 +23,7 @@ rodillo -- roller, rolling pin, steamroller
 rogar -- to beg, plead, pray
 rueda -- wheel, tire
 sacar -- remove, extract, take out/away, kick off (a team)
+soltar -- let loose, set free, let go, put down
 sonar -- ring, sound, be heard
 soñar -- to dream
 tormenta -- storm (rain)
